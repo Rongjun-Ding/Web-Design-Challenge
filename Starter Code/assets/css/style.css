@@ -1,0 +1,32 @@
+/* Your stylesheet */
+.logo {
+    font-weight: bold;
+    background-color:#4a8caa;
+    color: white;
+    font-size: 40px;
+    font-style:italic;
+}
+
+.first image {
+    width: 20%; 
+    float: left; 
+    margin : 5px;
+
+}
+
+.text {
+    float: left;
+    color: rgb(36, 36, 116);
+}
+
+.heading_text_color {
+    color:#348f8a;
+  }
+
+.back_ground {
+     background-color: lightgray;
+    }
+
+.text_color {
+         color: rgb(94, 94, 184);
+    }
