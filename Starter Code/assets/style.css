@@ -1,0 +1,43 @@
+/* Your stylesheet */
+@media only screen and (max-width: 770px) {
+    .navbar navbar-default{
+      background-color: #4aaaa5;
+    }
+  }
+  
+  #logo {
+      /* Box-model */
+      height: 70px;
+      padding-top: 20px;
+      padding-bottom: 10px;
+      margin-left: 50px;
+      font-family: verdana;
+      font-size: 22px;
+      font-weight: bold;
+      color: white;
+      /* Visual */
+      background: #4AAAA5;
+    }
+    body{
+      color: rgb(148, 67, 67);
+    }
+    .container {
+      height: 70px;
+      padding-top: 20px;
+      padding-bottom: 10px;
+      margin-left: 350px;
+      background-color: white;
+    }
+    h1{
+      color: #4AAAA5;
+      background: white;
+    }
+    h2{
+      color: #4AAAA5;
+      background: white;
+    }
+    p{
+      font-size: 22px;
+      background: #e4ebea;
+    }
+    
