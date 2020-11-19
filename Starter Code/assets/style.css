@@ -15,20 +15,10 @@
       font-size: 22px;
       font-weight: bold;
       color: white;
+      /* Visual */
       background: #4AAAA5;
     }
-    #AA {
-      height: 70px;
-      padding-top: 20px;
-      padding-bottom: 10px;
-      margin-left: 450px;
-      font-family: verdana;
-      font-size: 22px;
-      font-weight: bold;
-      color: rgb(255, 255, 255);
-      background: #eff3f3;
-    }
-    body{
+    .body{
       color: rgb(148, 67, 67);
     }
     .container {
