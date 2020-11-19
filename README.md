@@ -86,33 +86,33 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Starter Code/Images/landingResize.png)
+![Landing page large screen](StarterCode/Images/landingResize.png)
 
 Small screen:
 
-![Landing page small screen](Starter Code/Images/landing-sm.png)
+![Landing page small screen](StarterCode/Images/landing-sm.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Starter Code/Images/comparison-lg.png)
+![comparison page large screen](StarterCode/Images/comparison-lg.png)
 
 Small screen:
 
-![comparison page small screen](Starter Code/Images/comparison-sm.png)
+![comparison page small screen](StarterCode/Images/comparison-sm.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Starter Code/Images/data-lg.png)
+![data page large screen](StarterCode/Images/data-lg.png)
 
 
 Small screen:
 
-![data page small screen](Starter Code/Images/data-sm.png)
+![data page small screen](StarterCode/Images/data-sm.png)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
@@ -120,19 +120,19 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Starter Code/Images/visualize-lg.png)
+![visualize page large screen](StarterCode/Images/visualize-lg.png)
 
 Small screen:
 
-![visualize page small screen](Starter Code/Images/visualize-sm.png)
+![visualize page small screen](StarterCode/Images/visualize-sm.png)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Starter Code/Images/nav-lg.png)
+![nav menu large screen](StarterCode/Images/nav-lg.png)
 
 Small screen:
-![nav menu small screen](Starter Code/Images/nav-sm.png)
+![nav menu small screen](StarterCode/Images/nav-sm.png)
 
 ### Copyright
 
